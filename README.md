@@ -13,7 +13,7 @@ Esta tabela contém informações sobre as variáveis presentes no conjunto de d
 | Nome da Variável | Descrição da Variável |
 | --- | --- |
 | CustomerId | O ID do Cliente |
-| Surname | O spbrenome do Cliente |
+| Surname | O sobrenome do Cliente |
 | CreditScore | O credito da conta do cliente |
 | Geography | A Região de onde o cliente se habita |
 | gender | Sexualidade do cliente |
